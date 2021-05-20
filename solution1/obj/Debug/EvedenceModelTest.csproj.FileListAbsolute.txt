@@ -1,0 +1,7 @@
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\bin\Debug\EvedenceModelTest.exe.config
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\bin\Debug\EvedenceModelTest.exe
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\bin\Debug\EvedenceModelTest.pdb
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\obj\Debug\EvedenceModelTest.csprojAssemblyReference.cache
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\obj\Debug\EvedenceModelTest.csproj.CoreCompileInputs.cache
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\obj\Debug\EvedenceModelTest.exe
+H:\C# pra\EvedenceModelTest\EvedenceModelTest\obj\Debug\EvedenceModelTest.pdb
